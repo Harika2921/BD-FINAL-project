@@ -7,3 +7,4 @@ this the csv file I used to download.
 ![barchart](Barchart.png)
 ![linechart](linechart.png)
 
+For the heatmap chart it is taking time to load and it will visible in the file .
